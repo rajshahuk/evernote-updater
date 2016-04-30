@@ -1,0 +1,2 @@
+# You need to rename this file to .auth and put your API key for Evernote below
+AUTH_TOKEN=YOUR_API_KEY_GOES_HERE
