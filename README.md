@@ -36,3 +36,7 @@ This is a really hackie piece of code, I'm tidy it up but just run the main meth
 
 You need to get your Evernote API key from your account. You can do this by logging into Evernote on the web and getting
 it from there. You need to copy the `.sample_auth` file over to `.auth` and add your key to this file.
+
+Get an auth token for production by visiting this link:
+
+https://www.evernote.com/api/DeveloperToken.action
