@@ -1,6 +1,6 @@
 # Evernote Updater
 
-## Why have I got this?
+## Why have I got this?
 
 I use Evernote a lot. One of the workflows that I have is to scan all my paper documentation using a Doxie scanner,
 PDFing it and then uploading to Evernote. I do this in batches and use the following convention to name my files:
